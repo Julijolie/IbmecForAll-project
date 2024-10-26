@@ -1,0 +1,80 @@
+[33mcommit 7ea303910e878a17639e13ec481cfabbf6b34c8a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mJu-work[m[33m, [m[1;31mupstream/Pedro-Quadrat[m[33m, [m[1;31mupstream/Ju-work[m[33m)[m
+Author: gl-dias <106848620+gl-dias@users.noreply.github.com>
+Date:   Thu Oct 17 10:49:15 2024 -0300
+
+    Delete novoarquivo.txt
+
+[33mcommit 65d4b3aa875e6413a42ee6346b0de583cef54932[m[33m ([m[1;31mupstream/Arthur-work[m[33m)[m
+Author: gl-dias <106848620+gl-dias@users.noreply.github.com>
+Date:   Thu Oct 17 10:47:14 2024 -0300
+
+    Add files via upload
+
+[33mcommit 3c81b0a944fc574f73c56f021ab9c2170cedde30[m
+Merge: 6a36bf9 24fb82d
+Author: Eduardo Mangeli <EduardoMangeli@users.noreply.github.com>
+Date:   Thu Jun 6 09:45:09 2024 -0300
+
+    Merge pull request #7 from ibmec-tec/main
+    
+    incluindo github pages
+
+[33mcommit 24fb82d07b2a64cb8de3739ecd4adfe62888a2ff[m
+Author: Eduardo Mangeli <eduardo@mangeli.com.br>
+Date:   Thu Jun 6 09:41:21 2024 -0300
+
+    removendo caminho absoluto dos ícones
+
+[33mcommit 205409a052e69a5d33d001162e46cffecc54b263[m
+Author: Eduardo Mangeli <eduardo@mangeli.com.br>
+Date:   Thu Jun 6 09:40:01 2024 -0300
+
+    removendo caminho absoluto
+
+[33mcommit 62f9609d900a525ed5a152794580cec7404a61cc[m
+Author: EDUARDO FREITAS MANGELI DE BRITO <06960720761@professores.ibmec.edu.br>
+Date:   Thu Jun 6 09:07:20 2024 -0300
+
+    incluindo nome do repo
+
+[33mcommit 638024f734cf3782c6d3a59460eb151137cd1693[m
+Author: EDUARDO FREITAS MANGELI DE BRITO <06960720761@professores.ibmec.edu.br>
+Date:   Thu Jun 6 09:02:28 2024 -0300
+
+    ignorando build
+
+[33mcommit 3e969c88d4947d7968c1091ae7ffce48793ce3d6[m
+Author: EDUARDO FREITAS MANGELI DE BRITO <06960720761@professores.ibmec.edu.br>
+Date:   Thu Jun 6 08:45:04 2024 -0300
+
+    ajustando homepage
+
+[33mcommit 6a36bf9a3cadbad26025f7fb6e9161762c26a043[m
+Author: Eduardo Mangeli <EduardoMangeli@users.noreply.github.com>
+Date:   Thu Jun 6 08:09:16 2024 -0300
+
+    Update webpack.config.js
+
+[33mcommit 0caba6853051fc4c6a530937b8f5ecf703a707a0[m
+Author: Eduardo Mangeli <EduardoMangeli@users.noreply.github.com>
+Date:   Thu May 16 14:19:47 2024 -0300
+
+    Update webpack.config.js
+
+[33mcommit 161c422a1d9262df5d59cc75d1d7eba5747546ad[m
+Author: Eduardo Mangeli <EduardoMangeli@users.noreply.github.com>
+Date:   Thu May 2 10:41:42 2024 -0300
+
+    Update index.html
+
+[33mcommit 7a94b397839b108de6bce6f7c3610db5afd4f409[m
+Author: Eduardo Mangeli <eduardo@mangeli.com.br>
+Date:   Wed Feb 21 19:48:32 2024 -0300
+
+    resolvendo vulnerabilidades
+
+[33mcommit 483c2ca4ff94861e36b19badcd9450a7e238f840[m
+Author: Eduardo Mangeli <eduardo@mangeli.com.br>
+Date:   Wed Feb 21 19:33:31 2024 -0300
+
+    Inicial
